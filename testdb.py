@@ -2,7 +2,7 @@ import sqlite3
 
 db = sqlite3.connect("ATM.db")
 cur = db.cursor()
-cur.execute("SELECT * FROM users")
+cur.execute("SELECT * FROM Users")
 data = cur.fetchall()
 counter = 1
 for row in data:
