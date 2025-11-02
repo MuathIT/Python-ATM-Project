@@ -1,6 +1,5 @@
 # Python-ATM-Project
-Hey, this is my first Python project. It's about a simple ATM simulation using SQLite.
-Actually this is my first project ever :).
+Hey, this is my first Python project. It's about a simple ATM simulation using Python/SQLite.
 
 
 ## Project Structure
