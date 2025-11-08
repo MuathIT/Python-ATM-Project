@@ -29,5 +29,5 @@ Hey, this is my first Python project. It's about a simple ATM simulation using P
 If you have any questions, suggestions, or feedback, feel free to reach out:  
 
 - GitHub: [MuathIT](https://github.com/MuathIT)  
-- Email: 1213muaf@gmail.com  
+- Email: muathalrsaini@gmail.com  
 - LinkedIn: [Muath Al-Rsaini](https://www.linkedin.com/in/muath-al-rsaini-60322836b/)  
